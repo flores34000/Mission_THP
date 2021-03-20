@@ -1,0 +1,28 @@
+.container-fluid{
+    background: #e9e8e8;
+    color: #434443;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: rgb(7, 58, 199);
+    font-weight: 800;
+}
+h2{
+    font-weight: 800;
+    font-size:30px
+}
+
+h3{
+    color: rgb(7, 58, 199);
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+.line{
+    text-decoration: underline;
+    color: rgb(8, 39, 122);
+}
+p{
+    font-weight: 800;
+    font-size: 25px;
+}
